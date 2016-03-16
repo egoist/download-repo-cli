@@ -1,6 +1,6 @@
 # download-repo-cli [![NPM version](https://img.shields.io/npm/v/download-repo-cli.svg)](https://npmjs.com/package/download-repo-cli) [![NPM downloads](https://img.shields.io/npm/dm/download-repo-cli.svg)](https://npmjs.com/package/download-repo-cli) [![Build Status](https://img.shields.io/circleci/project/egoist/download-repo-cli/master.svg)](https://circleci.com/gh/egoist/download-repo-cli)
 
-A little faster that git clone repo with bare history.
+A little faster than git clone repo with bare history.
 
 ![preview](https://ooo.0o0.ooo/2016/03/15/56e8d1ce7cc03.png)
 
