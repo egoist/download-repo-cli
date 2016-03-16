@@ -18,6 +18,35 @@ $ download-repo https://github.com/egoist/tooling
 $ download-repo git@github.com:egoist/nwjs.git
 
 $ download-repo https://github.com/egoist/testen.git
+
+# advanced
+
+# by tag
+$ download-repo reactjs/redux -t v4.0.0
+
+# by branch
+$ download-repo reactjs/redux -b next
+
+# custom location
+$ download-repo reactjs/redux -o ~/my-redux-copy
+```
+
+## Help
+
+```bash
+$ download-repo -h
+
+CLI tool to download GitHub repo.
+
+Usage:
+
+  download-repo [repo|url]
+
+  -o/--output     Output name, relative or absolute
+  -t/--tag        Download by tag
+  -b/--branch     Download by branch
+  -v/--version    Print version
+  -h/--help       Print help
 ```
 
 ## Related
