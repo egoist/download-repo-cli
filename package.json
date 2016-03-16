@@ -1,6 +1,6 @@
 {
   "name": "download-repo-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CLI tool to download GitHub repo.",
   "license": "MIT",
   "repository": "egoist/download-repo-cli",
